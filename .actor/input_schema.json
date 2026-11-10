@@ -1,0 +1,1 @@
+{"properties":{"topic":{"description":"The topic to brief, e.g. \"Vietnam pangasius exports\" or \"global coffee prices\".","editor":"textfield","example":"Vietnam pangasius exports","prefill":"Vietnam pangasius exports","title":"Topic","type":"string"}},"required":["topic"],"schemaVersion":1,"title":"Brief Report input","type":"object"}
